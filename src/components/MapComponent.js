@@ -72,7 +72,7 @@ const MapComponent = () => {
       })
     });
 
-    return () => map.setTarget(undefined); // Cleanup map instance on component unmount
+    return () => map.setTarget(undefined); 
   }, []);
 
   return (
