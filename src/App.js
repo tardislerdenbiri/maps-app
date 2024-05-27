@@ -1,5 +1,5 @@
 import './App.css';
-import MapComponent from './components/MapComponent'; // Doğru içe aktarma yolu
+import MapComponent from './components/MapComponent'; 
 
 function App() {
   return (
